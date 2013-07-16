@@ -14,7 +14,7 @@ module Jekyll
     end
 
     def output_ext(ext)
-      ".html"
+      ""
     end
 
     def convert(content)
